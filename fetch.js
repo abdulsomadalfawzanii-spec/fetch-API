@@ -108,7 +108,7 @@ function displayProducts(items){
 
 
 
-// SEARCH FUNCTION
+
 
 searchInput.addEventListener('input', function(e){
 
